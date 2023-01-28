@@ -1508,7 +1508,7 @@
       (net 3 "GND") (tstamp 0b8aa9d2-1502-4975-a43f-e90adf28233b))
     (pad "4" thru_hole circle (at 10.5 0 90) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask)
       (net 61 "/Power Channel B/IN") (tstamp c490be4a-fc40-4862-a417-6e1ce313ea42))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2051,7 +2051,7 @@
       (net 3 "GND") (tstamp 0dd7a7dc-3a33-40b4-a338-dc7d080d3818))
     (pad "4" thru_hole circle (at 10.5 0 270) (size 2.3 2.3) (drill 1.2) (layers *.Cu *.Mask)
       (net 14 "/Power Channel A/IN") (tstamp 2e9a27c5-2eee-469d-8701-8440f039bf7c))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

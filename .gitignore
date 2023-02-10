@@ -19,3 +19,9 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Cache to speed up loading of footprint libraries
+fp-info-cache
+
+# Local settings for the current project
+*.kicad_prl

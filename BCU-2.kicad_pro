@@ -416,35 +416,35 @@
     ],
     [
       "00000000-0000-0000-0000-00005be8d10d",
-      "Power Channel A"
+      "Power Channel C"
     ],
     [
       "00000000-0000-0000-0000-00005be9e6f8",
-      "Power Channel B"
+      "Power Channel D"
     ],
     [
       "00000000-0000-0000-0000-00005be4dd5e",
-      "Opto Channel 0"
+      "Opto Channel 6"
     ],
     [
       "00000000-0000-0000-0000-00005befdaa2",
-      "Opto Channel 1"
+      "Opto Channel 7"
     ],
     [
       "00000000-0000-0000-0000-00005bf00fbd",
-      "Opto Channel 2"
+      "Opto Channel 8"
     ],
     [
       "00000000-0000-0000-0000-00005bf04935",
-      "Opto Channel 3"
+      "Opto Channel 9"
     ],
     [
       "00000000-0000-0000-0000-00005bf086e7",
-      "Opto Channel 4"
+      "Opto Channel 10"
     ],
     [
       "00000000-0000-0000-0000-00005bf0c916",
-      "Opto Channel 5"
+      "Opto Channel 11"
     ]
   ],
   "text_variables": {}

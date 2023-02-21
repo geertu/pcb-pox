@@ -1911,7 +1911,7 @@
   (symbol (lib_id "Jumper:SolderJumper_3_Bridged12") (at 105.41 137.16 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 250e396e-532b-403e-9923-ba97292ccd93)
-    (property "Reference" "JP?" (id 0) (at 107.061 136.3253 90)
+    (property "Reference" "JP4" (id 0) (at 107.061 136.3253 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SolderJumper_3_Bridged12" (id 1) (at 107.061 138.8622 90)
@@ -1931,7 +1931,7 @@
   (symbol (lib_id "Jumper:SolderJumper_3_Bridged12") (at 54.61 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2874d169-00ca-4711-b820-9bd76daabb8e)
-    (property "Reference" "JP?" (id 0) (at 52.9591 66.4753 90)
+    (property "Reference" "JP1" (id 0) (at 52.9591 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SolderJumper_3_Bridged12" (id 1) (at 52.9591 69.0122 90)
@@ -1951,7 +1951,7 @@
   (symbol (lib_id "power:GND") (at 60.96 92.71 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 84b85743-219c-4961-b45d-b0e1fb054317)
-    (property "Reference" "#PWR?" (id 0) (at 60.96 99.06 0)
+    (property "Reference" "#PWR02" (id 0) (at 60.96 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 61.087 97.1042 0))
@@ -1967,7 +1967,7 @@
   (symbol (lib_id "power:GND") (at 111.76 46.99 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 940cd4e4-73a2-49e9-9314-1a4ec55b2abb)
-    (property "Reference" "#PWR?" (id 0) (at 118.11 46.99 0)
+    (property "Reference" "#PWR010" (id 0) (at 118.11 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 116.84 46.99 90))
@@ -1983,7 +1983,7 @@
   (symbol (lib_id "power:+3V3") (at 60.96 57.15 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b101e671-1882-4363-b7e6-51d4d4c68639)
-    (property "Reference" "#PWR?" (id 0) (at 60.96 60.96 0)
+    (property "Reference" "#PWR01" (id 0) (at 60.96 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (id 1) (at 61.341 52.7558 0))
@@ -1999,7 +1999,7 @@
   (symbol (lib_id "Jumper:SolderJumper_3_Bridged12") (at 67.31 82.55 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c61569ba-e093-4c18-ad24-56dd1bfafc07)
-    (property "Reference" "JP?" (id 0) (at 65.6591 81.7153 90)
+    (property "Reference" "JP3" (id 0) (at 65.6591 81.7153 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SolderJumper_3_Bridged12" (id 1) (at 65.6591 84.2522 90)
@@ -2019,7 +2019,7 @@
   (symbol (lib_id "Interface_Expansion:PCF8574") (at 99.06 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ca56c6fa-1c9a-4c18-af31-0eba468c8eab)
-    (property "Reference" "U?" (id 0) (at 101.0794 50.9102 0)
+    (property "Reference" "U1" (id 0) (at 101.0794 50.9102 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PCF8574" (id 1) (at 101.0794 53.4471 0)
@@ -2052,7 +2052,7 @@
   (symbol (lib_id "power:+3.3V") (at 105.41 121.92 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d301f807-ce11-4903-86b4-814811ea43be)
-    (property "Reference" "#PWR?" (id 0) (at 105.41 125.73 0)
+    (property "Reference" "#PWR06" (id 0) (at 105.41 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 105.791 117.5258 0))
@@ -2068,7 +2068,7 @@
   (symbol (lib_id "Device:C_Small") (at 106.68 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d939b064-8985-4b7d-8a1a-0577d1e8851f)
-    (property "Reference" "C?" (id 0) (at 106.6863 41.7281 90))
+    (property "Reference" "C1" (id 0) (at 106.6863 41.7281 90))
     (property "Value" "100n" (id 1) (at 106.6863 44.265 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (id 2) (at 106.68 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2083,7 +2083,7 @@
   (symbol (lib_id "power:GND") (at 99.06 90.17 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dc9888b8-5fc1-4a7b-b43b-f84d5eb0adaa)
-    (property "Reference" "#PWR?" (id 0) (at 99.06 96.52 0)
+    (property "Reference" "#PWR03" (id 0) (at 99.06 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 99.187 94.5642 0))
@@ -2099,7 +2099,7 @@
   (symbol (lib_id "Jumper:SolderJumper_3_Bridged12") (at 60.96 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f20bea7b-9aea-47e6-889a-0fdfeb98c0ab)
-    (property "Reference" "JP?" (id 0) (at 59.3091 74.0953 90)
+    (property "Reference" "JP2" (id 0) (at 59.3091 74.0953 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SolderJumper_3_Bridged12" (id 1) (at 59.3091 76.6322 90)
@@ -2324,11 +2324,23 @@
     (path "/00000000-0000-0000-0000-00005bf53dcf"
       (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/b101e671-1882-4363-b7e6-51d4d4c68639"
+      (reference "#PWR01") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/84b85743-219c-4961-b45d-b0e1fb054317"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/dc9888b8-5fc1-4a7b-b43b-f84d5eb0adaa"
+      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005bbe1aa7"
       (reference "#PWR04") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005be4dd5e/00000000-0000-0000-0000-00005be627eb"
       (reference "#PWR05") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/d301f807-ce11-4903-86b4-814811ea43be"
+      (reference "#PWR06") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005be8d10d/00000000-0000-0000-0000-00005be8d423"
       (reference "#PWR07") (unit 1) (value "+3V3") (footprint "")
@@ -2338,6 +2350,9 @@
     )
     (path "/00000000-0000-0000-0000-00005be8d10d/00000000-0000-0000-0000-00005be8d437"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/940cd4e4-73a2-49e9-9314-1a4ec55b2abb"
+      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005be9e6f8/00000000-0000-0000-0000-00005be8d423"
       (reference "#PWR011") (unit 1) (value "+3V3") (footprint "")
@@ -2362,6 +2377,12 @@
     )
     (path "/00000000-0000-0000-0000-00005bf0c916/00000000-0000-0000-0000-00005be627eb"
       (reference "#PWR018") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005be8d10d/af7cc6d7-793b-4487-b233-b47678b4d967"
+      (reference "#PWR019") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005be9e6f8/af7cc6d7-793b-4487-b233-b47678b4d967"
+      (reference "#PWR020") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005ce201a1"
       (reference "#PWR023") (unit 1) (value "+3.3V") (footprint "")
@@ -2423,26 +2444,8 @@
     (path "/00000000-0000-0000-0000-00005cdedcdb"
       (reference "#PWR0112") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/84b85743-219c-4961-b45d-b0e1fb054317"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/940cd4e4-73a2-49e9-9314-1a4ec55b2abb"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005be9e6f8/af7cc6d7-793b-4487-b233-b47678b4d967"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005be8d10d/af7cc6d7-793b-4487-b233-b47678b4d967"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/b101e671-1882-4363-b7e6-51d4d4c68639"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/d301f807-ce11-4903-86b4-814811ea43be"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/dc9888b8-5fc1-4a7b-b43b-f84d5eb0adaa"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/d939b064-8985-4b7d-8a1a-0577d1e8851f"
+      (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005be8d10d/00000000-0000-0000-0000-00005ce3761d"
       (reference "C5") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
@@ -2467,9 +2470,6 @@
     )
     (path "/00000000-0000-0000-0000-00005be9e6f8/00000000-0000-0000-0000-00005ce54d22"
       (reference "C12") (unit 1) (value "10µ") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/d939b064-8985-4b7d-8a1a-0577d1e8851f"
-      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005be4dd5e/00000000-0000-0000-0000-00005be627f1"
       (reference "D3") (unit 1) (value "Yellow") (footprint "LED_SMD:LED_0603_1608Metric_Castellated")
@@ -2519,17 +2519,17 @@
     (path "/00000000-0000-0000-0000-00005ce0979a"
       (reference "J6") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical")
     )
-    (path "/250e396e-532b-403e-9923-ba97292ccd93"
-      (reference "JP?") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
-    )
     (path "/2874d169-00ca-4711-b820-9bd76daabb8e"
-      (reference "JP?") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
-    )
-    (path "/c61569ba-e093-4c18-ad24-56dd1bfafc07"
-      (reference "JP?") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
+      (reference "JP1") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
     )
     (path "/f20bea7b-9aea-47e6-889a-0fdfeb98c0ab"
-      (reference "JP?") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
+      (reference "JP2") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
+    )
+    (path "/c61569ba-e093-4c18-ad24-56dd1bfafc07"
+      (reference "JP3") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
+    )
+    (path "/250e396e-532b-403e-9923-ba97292ccd93"
+      (reference "JP4") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005be8d10d/00000000-0000-0000-0000-00005bf70897"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
@@ -2621,6 +2621,9 @@
     (path "/00000000-0000-0000-0000-00005cdedda3"
       (reference "R36") (unit 1) (value "4K7") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
+    (path "/ca56c6fa-1c9a-4c18-af31-0eba468c8eab"
+      (reference "U1") (unit 1) (value "PCF8574") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005be4dd5e/00000000-0000-0000-0000-00005be62801"
       (reference "U2") (unit 1) (value "HCPL-181") (footprint "Package_DIP:SMDIP-4_W7.62mm")
     )
@@ -2644,9 +2647,6 @@
     )
     (path "/00000000-0000-0000-0000-00005be9e6f8/00000000-0000-0000-0000-00005cf63bde"
       (reference "U13") (unit 1) (value "INA219xID") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/ca56c6fa-1c9a-4c18-af31-0eba468c8eab"
-      (reference "U?") (unit 1) (value "PCF8574") (footprint "")
     )
   )
 )

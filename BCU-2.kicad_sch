@@ -1664,7 +1664,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 241.3 95.25 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005cdedd03)
     (property "Reference" "R1" (id 0) (at 236.22 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1683,7 +1683,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 246.38 95.25 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005cdedda3)
     (property "Reference" "R2" (id 0) (at 247.8786 94.0816 0)
       (effects (font (size 1.27 1.27)) (justify left))

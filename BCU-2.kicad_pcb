@@ -2982,7 +2982,7 @@
     (at 119.38 118.745)
     (descr "Symbol, OSHW-Logo, Silk Screen,")
     (tags "Symbol, OSHW-Logo, Silk Screen,")
-    (attr through_hole)
+    (attr through_hole board_only exclude_from_bom)
     (fp_text reference "OSHW" (at 0.09906 -4.38912) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0fc912fd-5036-4a55-b598-a9af40810824)
@@ -4163,7 +4163,7 @@
   (footprint "geert:Glider_bvba_G_Medium" (layer "F.Cu")
     (tedit 592488F3) (tstamp 00000000-0000-0000-0000-00005d30d925)
     (at 128.905 119.38)
-    (attr through_hole)
+    (attr through_hole board_only exclude_from_bom)
     (fp_text reference "Glider" (at 0 0.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 47484446-e64c-4a82-88af-15de92cf6ad4)

@@ -3,7 +3,7 @@
 This is a small board to control operation of two development boards, e.g. on
 your desk, or in a board farm.
 
-![PCB](BCU-2-annotated.jpg)
+![PCB](BCU2-POX.jpg)
 
 ## Features
 
